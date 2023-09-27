@@ -1,0 +1,15 @@
+#resume figure {
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+}
+
+#resume figure img {
+    border-radius: 2rem;
+    border-color: var(--secondary);
+    border-style: solid;
+    display: flex;
+    justify-content: center;
+    max-width: 100%;
+    height: auto;
+}
