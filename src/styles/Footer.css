@@ -1,0 +1,21 @@
+.footer-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--dark-grey);
+    height: 100px;
+}
+
+.footer-link {
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.footer-link img {
+    width: 50px;
+    height: auto;
+}
+
+.footer-link:hover {
+    color: var(--secondary);
+}
