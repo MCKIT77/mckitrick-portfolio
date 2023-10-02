@@ -31,7 +31,7 @@ none
 
 ## Links
 
-github pages: https://mckit77.github.io/mckitrick-portfolio/
+deployed here: https://mckitrick-portfolio.netlify.app
 
 github repo: https://github.com/MCKIT77/mckitrick-portfolio
 
