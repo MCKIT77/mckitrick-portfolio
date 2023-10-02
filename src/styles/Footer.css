@@ -17,5 +17,5 @@
 }
 
 .footer-link:hover {
-    color: var(--secondary);
+    background-color: var(--primary);
 }
