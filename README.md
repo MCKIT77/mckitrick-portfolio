@@ -1,8 +1,43 @@
-# React + Vite
+# mckitrick-portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+portfolio created using react + vite. 
 
-Currently, two official plugins are available:
+### Table of Contents
+- [License](#license)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## License
+![License](https://img.shields.io/badge/License-MIT-brightgreen)
+
+This application is covered under the MIT license.
+
+## Installation
+none
+
+## Usage
+visit the link deployed on github pages and navigate through content by using the navbar
+
+## Contributors
+Jacob McKitrick
+
+## Tests
+
+none
+
+## Links
+
+github pages: https://mckit77.github.io/mckitrick-portfolio/
+
+github repo: https://github.com/MCKIT77/mckitrick-portfolio
+
+## Questions
+For any questions or inquiries, please contact me via GitHub or email:
+
+GitHub: [MCKIT77](https://github.com/MCKIT77)
+
+Email: jakemckit@gmail.com

@@ -1,21 +1,31 @@
-#about {
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    margin: 0;
+    /* width: 35%; */
+    text-align: center;
+}
+
+.about {
     display: flex;
     justify-content: center;
     padding: 0% 2%;
     align-items: center;
 }
 
-#aboutText p {
+.aboutText {
     font-size: 150%;
     color: var(--primary);
 }
 
-#about img {
+#prof-img {
     margin-top: 2rem;
-    margin-left: 10%;
-    border-radius: 5rem;
-    border-style: solid;
-    border-color: var(--secondary);
-    max-width: 25%;
+    border-radius: 50%;
+    /* Circular border */
+    border: 5px solid var(--secondary);
+    max-width: 100%;
+    /* Adjust the image size as needed */
     height: auto;
 }
