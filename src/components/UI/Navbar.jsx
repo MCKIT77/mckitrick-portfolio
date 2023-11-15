@@ -1,4 +1,4 @@
-export default function Nav({ links }) {
+export default function Navbar({ links }) {
     return (
         <nav className="navbar navbar-expand-lg">
             <div className="container-fluid">
