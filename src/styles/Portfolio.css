@@ -1,3 +1,18 @@
+#portfolio {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    /* Center the text horizontally */
+}
+
+#portfolio h3 {
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+}
+
 #work {
     display: flex;
     flex-wrap: wrap;
