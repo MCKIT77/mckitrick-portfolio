@@ -8,8 +8,8 @@ export default function About() {
         </div>
         <h2 class="about">About Me</h2>
         <p class="aboutText">Hi, I'm Jacob McKitrick! I'm a Web Developer based in Pittsburgh, PA. I'm passionate about
-            blockchain, and I really enjoy solving a difficult problem with code. With 1 year of professional experience in Web Development,
-            I've had the opportunity to build a few games with javascript as well as a few applications as you can see in my
+            blockchain, and I really enjoy solving a difficult problem with code. With 2 year of professional experience in Web Development,
+            I've had the opportunity to build a few games with javascript as well as many applications as you can see in my
             portfolio section. These experiences have helped me develop a unique perspective on web debelopment, which I bring
             to every project or task I work on. When I'm not working, I enjoy Golfing, Fishing, Camping, and spending time with
             my pup. I'm also an avid gamer, and love to learn new things. If you're interested in learning more about me, or
